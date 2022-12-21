@@ -27,7 +27,7 @@ Please let me know if you test any others, would love to increase the compatibil
 $ docker run \
   --device=/dev/video0 \
   -p 8080:8080 \
-  patsoffice/mjpg-streamer
+  facuarmo/mjpg-streamer
 ```
 
 ## Environment Variables
